@@ -24,5 +24,5 @@
 
 ## <h3 align="left">💻 Workshop in university :</h3>
 <p align="left">
-<a href="https://drive.google.com/drive/folders/10FbM7eZRwpo4z0jwONinyX8_9Q0yqXJ1?usp=share_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/aunyamanee-rungpao-3a03851b4" height="30" width="40" /></a>
+<a href="https://drive.google.com/drive/folders/10FbM7eZRwpo4z0jwONinyX8_9Q0yqXJ1?usp=share_link" target="blank">https://drive.google.com/drive/folders/10FbM7eZRwpo4z0jwONinyX8_9Q0yqXJ1?usp=share_link</a>
 </p>
