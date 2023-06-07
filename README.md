@@ -11,8 +11,8 @@
 
 ## <h3 align="left">💻 Connect with me:</h3>
 <p align="left">
-linkedin : https://www.linkedin.com/in/aunyamanee/ <br>
-My transcript : https://drive.google.com/file/d/1b1icw2hgtuKiY6VabTPIntOPmolGPXx1/view?usp=sharing <br>
+linkedin : https://bit.ly/3qxErwL <br>
+My transcript : https://bit.ly/3NfMib1 <br>
 </p>
 
 ## <h3 align="left">🛠️ Languages and Tools:</h3>
